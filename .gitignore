@@ -1,0 +1,6 @@
+# VSCode directory and files
+.vscode
+.vscode/**
+
+# The test executable
+test
